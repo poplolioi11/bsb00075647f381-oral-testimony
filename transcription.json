@@ -2,14 +2,14 @@
   "metadata": {
     "work_key": "bsb00075647f381",
     "title": "瘋人誣婦",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "language": "lzh",
     "shelfmark": "L.sin. K 175-31/37 / bsb00075647, scan 381, 御十第79圖",
     "reading_order": "source columns, ordered as printed",
     "title_policy": "Stand-alone headings in extras, inline ones in their original column",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "瘋人誣婦（《點石齋畫報》御十第79圖，1895 年，巴伐利亞邦立圖書館） / Feng ren wu fu [An Accusation, Family Testimony and Official Inquiry]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -44,7 +44,7 @@
               "text": "府明府立出登堂見其滿身"
             },
             {
-              "text": "血污急詢有何奇寃答稱為"
+              "text": "血污急詢有何奇寃答稱爲"
             },
             {
               "text": "妻所毆將有性命之憂急迫"
@@ -111,7 +111,7 @@
           "side": "left",
           "columns": [
             {
-              "text": "姪某茂才亦至訴明叔病"
+              "text": "姪某茂才亦至訴明伊瘋"
             },
             {
               "text": "情形遂領歸焉兼聽則"
@@ -170,9 +170,11 @@
           "context": "麋臺",
           "candidates": [
             "麋臺",
-            "麞臺"
+            "麞臺",
+            "廉臺"
           ],
-          "note": "麋字下半筆畫緊密；保留候讀供覆核。"
+          "note": "麋字下半筆畫緊密；保留候讀供覆核。",
+          "review_note": "首字與後文鹿頭近，字下有向兩側出的短筆，暫作麋。"
         },
         {
           "side": "right",
@@ -180,9 +182,11 @@
           "context": "登堂",
           "candidates": [
             "登堂",
-            "坐堂"
+            "坐堂",
+            "堂皇"
           ],
-          "note": "第一字筆畫緊合，保留候選。"
+          "note": "第一字筆畫緊合，保留候選。",
+          "review_note": "末字上寬下見土形，較合堂，前一字墨緊且略重。暫留首讀，不補成通行語。"
         },
         {
           "side": "left",
@@ -193,6 +197,37 @@
             "詐明"
           ],
           "note": "此處依言旁及文意暫讀訴。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "鬱々",
+          "candidates": [
+            "鬱々",
+            "鬱〻",
+            "鬱鬱"
+          ],
+          "note": "第二處為細短迭字符，不是整字重寫。首錄符碼暫保留。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "絶",
+          "candidates": [
+            "絶",
+            "絕"
+          ],
+          "note": "糸右中上可見刀行，底部連寫。首錄用絶，形近絕。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "伊瘋",
+          "candidates": [
+            "伊瘋",
+            "叔病"
+          ],
+          "note": "兩字仍有刻石漫漶。覆核取此前獨立伊瘋，保留初讀作異讀。"
         }
       ],
       "observations": "第381幅完整跨頁。右十六欄、左五欄，共二十一欄，另記橫排篇題、畫款、印記及欄外版記。",

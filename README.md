@@ -4,11 +4,11 @@
 
 The Dianshizhai Pictorial recounts the case of a scholar who went to a magistrate’s office and accused his wife of injuring him. It records her account of his prior difficulties, the magistrate’s observations during questioning and the nephew’s testimony and return home with his uncle. The holding library already supplies its scan and machine OCR. This edition records complete article boundaries and source reading order, plus the column divisions, labels, marks, and uncertain readings.
 
-## V0.1.0
+## V0.2.0
 
-第381幅完整跨頁。右十六欄、左五欄，共二十一欄，另記橫排篇題、畫款、印記及欄外版記。此版固定 AI 輔助初錄。疑讀保留定位，尚未經人類全文雙校。
+第381幅完整跨頁。右十六欄、左五欄，共二十一欄，另記橫排篇題、畫款、印記及欄外版記。比對獨立原圖讀法後回圖裁定，採用 2 筆訂正，留存疑讀定位。
 
-One holding-library scan, including the complete article's 21 body columns and separate labels, marks, and seals. First AI-assisted reading with marked uncertainties. Full double proofreading by humans is pending.
+One holding-library scan, including the complete article's 21 body columns and separate labels, marks, and seals. An independent image reading was compared with the first transcription. Source-image adjudication adopted 2 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

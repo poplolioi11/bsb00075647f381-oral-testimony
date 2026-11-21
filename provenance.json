@@ -4,10 +4,10 @@
   "source": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=381",
   "iiif_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075647/manifest",
   "source_rights_policy": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-  "dataset_version": "0.1.0",
+  "dataset_version": "0.2.0",
   "scan_count": 1,
   "content_scan_count": 1,
-  "review_status": "initial-transcription",
+  "review_status": "targeted-image-adjudication",
   "source_image_inventory": [
     {
       "image": 1,

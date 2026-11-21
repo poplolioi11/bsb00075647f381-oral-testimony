@@ -1,0 +1,119 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 2,
+  "changes": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 8,
+      "kind": "main",
+      "op": "replace",
+      "before": "血污急詢有何奇寃答稱為",
+      "after": "血污急詢有何奇寃答稱爲",
+      "reason": "末字上爪與下屈筆分明，依原字形爲。",
+      "source_bbox": [
+        24,
+        314,
+        2518,
+        2352
+      ],
+      "source_image_sha256": "53e124163fd98faadc974b4f3faf9a2788dfaf15d111ca9167f3270a3fb7ce66",
+      "canvas": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=381"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "姪某茂才亦至訴明叔病",
+      "after": "姪某茂才亦至訴明伊瘋",
+      "reason": "後二字回圖，第一字左亻右尹，第二字右內風框及彎筆可見，依獨立稿。",
+      "source_bbox": [
+        24,
+        314,
+        2518,
+        2352
+      ],
+      "source_image_sha256": "53e124163fd98faadc974b4f3faf9a2788dfaf15d111ca9167f3270a3fb7ce66",
+      "canvas": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=381"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=381",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=381",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=381",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=381",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=381",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=381",
+      "status": "保留疑讀"
+    }
+  ],
+  "retained_readings": [
+    {
+      "side": "right",
+      "column": 10,
+      "reading": "情狀",
+      "rejected": "情形",
+      "reason": "放大字右是斜筆叉足，爿旁可見，較合狀。"
+    },
+    {
+      "side": "left",
+      "column": 4,
+      "reading": "一面",
+      "reason": "據字下為一短墨橫，留首讀。"
+    },
+    {
+      "side": "right",
+      "location": "篇題，橫排由右至左",
+      "reading": "瘋人誣婦",
+      "reason": "題第三字言旁，右部近巫；以同館同冊印刷目錄確認。"
+    },
+    {
+      "side": "right",
+      "location": "圖右下畫款",
+      "reading": "志瀛",
+      "reason": "第二字氵旁並有右部末折，與獨立稿及畫人志瀛相合。"
+    },
+    {
+      "side": "left",
+      "location": "圖說末一方橢圓印",
+      "reading": null,
+      "reason": "保留印位，字形尚不能穩定析讀。"
+    }
+  ]
+}
