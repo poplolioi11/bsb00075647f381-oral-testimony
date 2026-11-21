@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "work_key": "bsb00075647f381",
+    "title": "瘋人誣婦",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "L.sin. K 175-31/37 / bsb00075647, scan 381, 御十第79圖",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "瘋人誣婦（《點石齋畫報》御十第79圖，1895 年，巴伐利亞邦立圖書館） / Feng ren wu fu [An Accusation, Family Testimony and Official Inquiry]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "麋臺鹿苑之間有某明經焉"
+            },
+            {
+              "text": "鬱々家居致成心疾書空咄"
+            },
+            {
+              "text": "咄不減殷浩當年室人某氏"
+            },
+            {
+              "text": "賢慧性成居賤食貧絶無怨"
+            },
+            {
+              "text": "色一日明經忽至某署大堂"
+            },
+            {
+              "text": "擊鼓叫喊差役大驚奔告明"
+            },
+            {
+              "text": "府明府立出登堂見其滿身"
+            },
+            {
+              "text": "血污急詢有何奇寃答稱為"
+            },
+            {
+              "text": "妻所毆將有性命之憂急迫"
+            },
+            {
+              "text": "至此明府見其情狀似若可"
+            },
+            {
+              "text": "信立飭差役往提其妻其妻"
+            },
+            {
+              "text": "茫無頭緒隨差到署據供丈"
+            },
+            {
+              "text": "夫素有瘋症此次實由渠自"
+            },
+            {
+              "text": "用花瓶擊破頭顱並非小婦"
+            },
+            {
+              "text": "人所毆明府覆問明經則目"
+            },
+            {
+              "text": "瞪口呆語無倫次未幾其"
+            }
+          ],
+          "extras": [
+            {
+              "type": "article-title",
+              "location": "篇題，橫排由右至左",
+              "text": "瘋人誣婦",
+              "rect": [
+                2086,
+                451,
+                2460,
+                531
+              ]
+            },
+            {
+              "type": "artist-signature",
+              "location": "圖右下畫款",
+              "text": "志瀛",
+              "rect": [
+                2461,
+                2207,
+                2515,
+                2270
+              ]
+            },
+            {
+              "type": "artist-seal",
+              "location": "畫款下一方印",
+              "text": "",
+              "rect": [
+                2464,
+                2265,
+                2512,
+                2306
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "姪某茂才亦至訴明叔病"
+            },
+            {
+              "text": "情形遂領歸焉兼聽則"
+            },
+            {
+              "text": "明偏聽則暗世有訊鞫"
+            },
+            {
+              "text": "之責者其可據一面之"
+            },
+            {
+              "text": "詞而漫加刑責哉"
+            }
+          ],
+          "extras": [
+            {
+              "type": "form-mark",
+              "location": "原刊圖號",
+              "text": "七十九",
+              "rect": [
+                25,
+                1869,
+                93,
+                2003
+              ]
+            },
+            {
+              "type": "form-mark",
+              "location": "原刊期碼",
+              "text": "御十",
+              "rect": [
+                26,
+                2222,
+                94,
+                2313
+              ]
+            },
+            {
+              "type": "printer-seal",
+              "location": "圖說末一方橢圓印",
+              "text": "",
+              "rect": [
+                988,
+                580,
+                1050,
+                665
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "麋臺",
+          "candidates": [
+            "麋臺",
+            "麞臺"
+          ],
+          "note": "麋字下半筆畫緊密；保留候讀供覆核。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "登堂",
+          "candidates": [
+            "登堂",
+            "坐堂"
+          ],
+          "note": "第一字筆畫緊合，保留候選。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "訴明",
+          "candidates": [
+            "訴明",
+            "詐明"
+          ],
+          "note": "此處依言旁及文意暫讀訴。"
+        }
+      ],
+      "observations": "第381幅完整跨頁。右十六欄、左五欄，共二十一欄，另記橫排篇題、畫款、印記及欄外版記。",
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075647?page=381",
+      "iiif_canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075647/canvas/381",
+      "catalogue_page": 381,
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v3/bsb00075647_00381/full/2600,/0/default.jpg",
+      "sha256": "53e124163fd98faadc974b4f3faf9a2788dfaf15d111ca9167f3270a3fb7ce66",
+      "label": "御十第79圖",
+      "dimensions": [
+        2600,
+        2499
+      ],
+      "article_extent": [
+        24,
+        314,
+        2518,
+        2352
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}

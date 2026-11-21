@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '瘋人誣婦（《點石齋畫報》御十第79圖，1895 年，巴伐利亞邦立圖書館） / Feng ren wu fu [An Accusation, Family
+  Testimony and Official Inquiry]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/bsb00075647f381-oral-testimony
+keywords:
+- 點石齋畫報
+- 瘋人誣婦
+- 精神醫學史
+- 家屬陳述與司法處置
+- Dianshizhai Pictorial
+- History of psychiatry
+- illustrated newspapers
+- Bavarian State Library
+- TEI
